@@ -9,6 +9,6 @@ Analisis exporatorio Consumo de Agua en la Población.
 Modelo Predictivo de nivel de Cisterna de la planta.
 
 Dashboard Analisis de Consumo:
-![Dashboard Cisterna](https://digiplexbs.com/tutoriales/dashboard_1.png)
+![Dashboard Cisterna](https://digiplexbs.com/tutoriales/dashboard_init.png)
 ![Dashboard Cisterna](https://digiplexbs.com/tutoriales/dashboard_2.png)
 ![Dashboard Cisterna](https://digiplexbs.com/tutoriales/dashboard_3.png)
